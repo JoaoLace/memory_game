@@ -1,0 +1,17 @@
+body{
+    align-items: center;
+    align-content: center;
+}
+#field{
+    width: 60%;
+    align-self: center;
+    align-items: center;
+}
+.card{
+    padding: 10px;
+    width: 222px;
+    height: 323px;
+}
+:hover .card{
+    cursor: pointer;
+}
